@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/pre-dexed/debug/classes-27a379f4fa5e2265f8593a85273b072106a8dcb3.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/pre-dexed/debug/classes-ba0d04837654cbf8732de9df04424a1e874d7f1f.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3c2a056205fa9e9d8d6ab3e571697857d1c0c92f.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-90459d38df2f6626a92c3f79ac457b6482616918.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-24eb481af7f9796b11c861dfbef646e8dc326475.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/pre-dexed/debug/classes-98754f11a0ac740f9dab293f6f1f14baeabf9d16.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.2/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-6b025b8932e5ce0c4ae4c9e4c2d1c177f71539fb.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/pre-dexed/debug/classes-17c0f64498932ac42fc87dd9f848a88e17bf6903.jar" />
+    </item>
+    <item
+        jar="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/mehrzadshabez/Dropbox/AppJam/workspace/AppJam0.0.1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cfb51b370a65d9ee47019effe3503622ca605d8c.jar" />
+    </item>
+
+</items>
